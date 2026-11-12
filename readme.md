@@ -138,11 +138,13 @@ The exact formula can be modified depending on the available data.
 * LEFT JOIN
 * Subqueries
 * Aggregate Functions
-
- How to Run the Project
+* 
+PROJECT OUTPUT:
+![sql visual debugger output]
+(screenshot%202026-11-12%20190833.png)
  PROJECT OUTPUT
  add your sql output screenshots here
-
+How to Run the Project
 ### Step 1: Create the database
 
 Run:
