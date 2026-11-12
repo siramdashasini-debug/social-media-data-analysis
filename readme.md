@@ -140,6 +140,8 @@ The exact formula can be modified depending on the available data.
 * Aggregate Functions
 
  How to Run the Project
+ PROJECT OUTPUT
+ add your sql output screenshots here
 
 ### Step 1: Create the database
 
